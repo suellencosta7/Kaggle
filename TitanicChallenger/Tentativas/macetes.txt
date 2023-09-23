@@ -1,0 +1,16 @@
+<function listPasserId at 0x7f37fef2a3b0>
+
+Este retorno acontece quando criamos uma função e chamamos direto, para resolver este problema, basta salvar a função em uma variavel e printar variavel.
+    exemplo: ('trains_imp.py')
+    def listPasserId ():
+    return list_survived
+
+
+chamada_teste = listPasserId()
+
+print(chamada_teste)
+
+
+Documentação data studeo 
+https://support.google.com/looker-studio/answer/9061420?sjid=14200700163229456713-SA
+https://support.google.com/looker-studio/topic/7059081?hl=pt-BR&ref_topic=9207420&sjid=14200700163229456713-SA

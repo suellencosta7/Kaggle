@@ -14,11 +14,18 @@ A coluna de sobreviventes tem uma regra, se o passageiro sobreviveu então o val
 ---
 
 #### Solução
+Analises realizadas:
+Quantos passageiros havia no navio ?
+![TotalPassageiros]()
+
+Quantos passageiros tinha no arquivo test.csv?
+![Passageiros_train.csv]()
+
+Dos passageiros presentes em Train.csv, quais sobreviveram? 0 para não e 1 para sim.
 Todos os 418 passageiros presente em train.csv não sobreviveram.
 Para chegar nesta conclusão, segui a seguinte lógica:
-
-!(Looping)[]
-
+ 
+![looping](https://github.com/suellencosta7/Kangle/blob/main/TitanicChallenger/images/condicaoTrueFalse.png)
 
 
 
@@ -27,5 +34,4 @@ Para chegar nesta conclusão, segui a seguinte lógica:
 É um problema simples que peguei para solidificar a base de ETL, o simples bem feito vale mais que um datalake inteiro feito pela metade. 
 Não é executar grades ou pequenas coisas, mas sim solucionar o problem de forma simples e completa.
 É o famoso começar e ir até o final sem se perder.
-
  

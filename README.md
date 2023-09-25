@@ -14,11 +14,12 @@ A coluna de sobreviventes tem uma regra, se o passageiro sobreviveu então o val
 ---
 
 #### Solução
-Analises realizadas:
-Quantos passageiros havia no navio ?
+
+Analises realizadas: <br>
+Quantos passageiros havia no navio ? <br>
 ![TotalPassageiros](https://github.com/suellencosta7/Kangle/blob/main/TitanicChallenger/images/PassageirosTotal.png)
 
-Quantos passageiros tinha no arquivo test.csv?
+Quantos passageiros tinha no arquivo test.csv? <br>
 ![Passageiros_train.csv](https://github.com/suellencosta7/Kangle/blob/main/TitanicChallenger/images/passageirosTest.csv.png)
 
 Dos passageiros presentes em Train.csv, quais sobreviveram? 0 para não e 1 para sim.

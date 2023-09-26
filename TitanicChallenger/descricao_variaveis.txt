@@ -1,5 +1,0 @@
-train_passId = Coluna com Todos os passageiros de train.csv SOBREVIVENTES
-
-train_passId_list = Todos os passageiros SOBREVIVENTES de train.csv em tipo lita
-
-test_passId_list = Coluna de passageiros de test.csv tipo lista 
